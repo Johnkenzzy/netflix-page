@@ -1,5 +1,5 @@
 import './kids.css';
-import './kids.png';
+import './assets/kids.png';
 
 function Kids () {
     return (
