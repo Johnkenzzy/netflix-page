@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import Main from './main';
-import Tv from './Tv';
-import Download from './download';
-import Everywhere from './everywhere';
-import Kids from './kids';
+import Main from './sections/main.js';
+import Tv from './sections/Tv.js';
+import Download from './sections/download.js';
+import Everywhere from './sections/everywhere.js';
+import Kids from './sections/kids.js';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
